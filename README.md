@@ -1,10 +1,4 @@
-# Automate daily development tasks with bash
 
-This is the GitHub repo to accompany the Egghead Course "Automate daily development tasks with bash". Watch it on [egghead.io](https://egghead.io/courses/automate-daily-development-tasks-with-bash).
-
-This repository is structured more as a "cheatsheet" rather than having any runnable code. Click the lesson links to see the code that's covered in each lesson.
-
----
 
 Whether it’s for npm install or some git commands, most front-end devs have used bash sometime. Bash has been around awhile (first released in 1989) and it’s proven to be very efficient at automating tasks. Plus, bash is available on every commonly used operating system—it comes with macOS, is the default shell for many Linux distros, and is available on Windows via an emulator or the new Linux subsystem. In this course, we’ll learn the essentials of what every front-end developer should know about bash. The topics we cover will give you confidence in doing things like creating build scripts that run on continuous integration servers or quickly testing and debugging an API with `curl`. We’ll go over:
 - Interacting with the file system
